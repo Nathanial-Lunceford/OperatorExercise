@@ -1,0 +1,15 @@
+C:\Users\Skinnysolids\Desktop\repos\OperatorExercise\OperatorExerciseConsole\obj\Debug\net6.0\OperatorExerciseConsole.csproj.AssemblyReference.cache
+C:\Users\Skinnysolids\Desktop\repos\OperatorExercise\OperatorExerciseConsole\obj\Debug\net6.0\OperatorExerciseConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skinnysolids\Desktop\repos\OperatorExercise\OperatorExerciseConsole\obj\Debug\net6.0\OperatorExerciseConsole.AssemblyInfoInputs.cache
+C:\Users\Skinnysolids\Desktop\repos\OperatorExercise\OperatorExerciseConsole\obj\Debug\net6.0\OperatorExerciseConsole.AssemblyInfo.cs
+C:\Users\Skinnysolids\Desktop\repos\OperatorExercise\OperatorExerciseConsole\obj\Debug\net6.0\OperatorExerciseConsole.csproj.CoreCompileInputs.cache
+C:\Users\Skinnysolids\Desktop\repos\OperatorExercise\OperatorExerciseConsole\bin\Debug\net6.0\OperatorExerciseConsole.exe
+C:\Users\Skinnysolids\Desktop\repos\OperatorExercise\OperatorExerciseConsole\bin\Debug\net6.0\OperatorExerciseConsole.deps.json
+C:\Users\Skinnysolids\Desktop\repos\OperatorExercise\OperatorExerciseConsole\bin\Debug\net6.0\OperatorExerciseConsole.runtimeconfig.json
+C:\Users\Skinnysolids\Desktop\repos\OperatorExercise\OperatorExerciseConsole\bin\Debug\net6.0\OperatorExerciseConsole.dll
+C:\Users\Skinnysolids\Desktop\repos\OperatorExercise\OperatorExerciseConsole\bin\Debug\net6.0\OperatorExerciseConsole.pdb
+C:\Users\Skinnysolids\Desktop\repos\OperatorExercise\OperatorExerciseConsole\obj\Debug\net6.0\OperatorExerciseConsole.dll
+C:\Users\Skinnysolids\Desktop\repos\OperatorExercise\OperatorExerciseConsole\obj\Debug\net6.0\refint\OperatorExerciseConsole.dll
+C:\Users\Skinnysolids\Desktop\repos\OperatorExercise\OperatorExerciseConsole\obj\Debug\net6.0\OperatorExerciseConsole.pdb
+C:\Users\Skinnysolids\Desktop\repos\OperatorExercise\OperatorExerciseConsole\obj\Debug\net6.0\OperatorExerciseConsole.genruntimeconfig.cache
+C:\Users\Skinnysolids\Desktop\repos\OperatorExercise\OperatorExerciseConsole\obj\Debug\net6.0\ref\OperatorExerciseConsole.dll
